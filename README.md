@@ -1,2 +1,6 @@
 # pers_nft
-Personal NFT research and portfolio tooling.
+
+
+Small personal project for NFT market research, monitoring, and portfolio analysis.
+
+Private, non-commercial use.
